@@ -1,0 +1,14 @@
+{
+  "name": "genpark-ecvrf-verifiable-random-function-skill",
+  "version": "1.0.0",
+  "description": "Elliptic curve verifiable random function (ECVRF) generating cryptographic pseudo-random outputs with public verification proofs.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "ecvrf",
+    "verifiable-random-function",
+    "randomness-beacon",
+    "cryptography",
+    "consensus"
+  ]
+}
